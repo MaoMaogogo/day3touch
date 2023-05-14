@@ -179,7 +179,7 @@ int main(int argc, char const* argv[])
 					if (i > 2)
 					{
 						i = 0;
-					}
+					}ci
 				}
 				if (mode_x0 == 0) x0--;
 				if (mode_x0 == 1) x0++;
